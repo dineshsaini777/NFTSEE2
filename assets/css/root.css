@@ -1,0 +1,52 @@
+:root {
+    /* color */
+    --black: #000;
+    --white: #FFF;
+    --blue: #1A9FFF;
+    --gray: gray;
+    /* font-size */
+    --fs-16: 16px;
+    --fs-18: 18px;
+    --fs-36: 18px;
+    --fs-48: 48px;
+    --fs-20: 20px;
+    --fs-24: 24px;
+    --fs-64: 64px;
+    --fs-15: 15px;
+    --fs-14: 14px;
+    --fs-32: 32px;
+    /* font-weight */
+    --fw-300: 300;
+    --fw-600: 600;
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-700: 700;
+}
+
+.fs36 {
+    font-size: var(--fs-36);
+}
+
+.fw700 {
+    font-weight: 700;
+}
+
+.black {
+    color: var(--black);
+}
+
+.fs18 {
+    font-size: var(--fs-18);
+}
+
+.fw400 {
+    font-weight: 400;
+}
+
+.fw600 {
+    font-weight: 600;
+}
+
+.white {
+    color: var(--white);
+}
