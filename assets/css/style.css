@@ -126,15 +126,14 @@ section {
 }
 
 .men:hover {
-    transition: 0.70s;
-    transform: rotate(360deg);
+    transform: scale(1.2);
+
 }
 
 button:hover {
     background-color: blue;
     color: #FFF;
-    transform: rotate(360deg);
-    transition: 0.70s;
+    transform: scale(1.2);
 }
 
 .foll::after {
@@ -145,7 +144,6 @@ button:hover {
     width: 1px;
     height: 49px;
     background: #cccccc;
-
 }
 
 .pl114 {
